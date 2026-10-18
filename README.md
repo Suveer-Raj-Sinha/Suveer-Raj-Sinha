@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arcadelab.vercel.app">
-    🎮 Explore ArcadeLab
+  <a href="https://suveer-raj-sinha.vercel.app">
+    🎮 Explore Portfolio
   </a>
 </p>
 
