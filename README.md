@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="YOUR_BANNER_URL" width="100%" alt="Suveer Raj Sinha — Developer interface" />
+  <img src="https://github.com/Suveer-Raj-Sinha/Suveer-Raj-Sinha/blob/main/Futuristic%20Developer%20HUD%20Banner.png" width="100%" alt="Suveer Raj Sinha — Developer interface" />
 </div>
 
 <div align="center">
