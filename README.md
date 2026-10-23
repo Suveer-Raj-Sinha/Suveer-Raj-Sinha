@@ -131,7 +131,7 @@ APIs, deployment, databases, and reliable systems.
 
 <sub>05 &nbsp; / &nbsp; CORE PRINCIPLE</sub>
 
-# Too many ideas.<br/>Not enough repos. Yet.
+# Too many ideas. <br/>Not enough repos. Yet.
 
 `THINK DEEPLY` &nbsp; // &nbsp; `BUILD FEARLESSLY` &nbsp; // &nbsp; `STAY CURIOUS`
 
