@@ -16,6 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=E99A3D&center=true&vCenter=true&width=600&lines=INITIALIZING+DEVELOPER+PROFILE;FULL-STACK+%2F%2F+AI+%2F%2F+INTERACTIVE+SYSTEMS;BUILDING+WHAT+DOESN%27T+EXIST+YET;STATUS%3A+ALWAYS+EXPLORING" alt="Animated profile status" />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Suveer-Raj-Sinha&color=E99A3D&style=flat-square&label=PROFILE+VIEWS" />
 ---
 
 <div align="center">
