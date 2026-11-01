@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://github.com/Suveer-Raj-Sinha/Suveer-Raj-Sinha/blob/main/Futuristic%20Developer%20HUD%20Banner.png" width="100%" alt="Suveer Raj Sinha — Developer interface" />
 </div>
 
@@ -121,26 +121,49 @@ APIs, deployment, databases, and reliable systems.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suveer-Raj-Sinha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F10&title_color=E99A3D&icon_color=E99A3D&text_color=8997A3&rank_icon=github&cache_seconds=86400" width="70%" alt="GitHub statistics" />"
+<img src="https://github-readme-stats.vercel.app/api?username=Suveer-Raj-Sinha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F10&title_color=E99A3D&icon_color=E99A3D&text_color=8997A3&rank_icon=github&cache_seconds=86400" width="70%" alt="GitHub statistics" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suveer-Raj-Sinha&layout=compact&hide_border=true&bg_color=0D0F10&title_color=E99A3D&text_color=8997A3&langs_count=8" width="55%" alt="Most used programming languages" />
 
 </div>
-
-## 📊 My GitHub Contributions
-
-![](./profile-3d-contrib/profile-night-view.svg)
 
 <br/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E99A3D" width="100%" alt="" />
+</div>
 
-<sub>05 &nbsp; / &nbsp; CORE PRINCIPLE</sub>
+<div align="center">
+
+<sub>05 &nbsp; / &nbsp; CONTRIBUTION MATRIX</sub>
+
+# GitHub Contributions
+
+<img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D GitHub contribution graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E99A3D" width="100%" alt="" />
+</div>
+
+<div align="center">
+
+<sub>06 &nbsp; / &nbsp; CORE PRINCIPLE</sub>
 
 # Too many ideas. <br/>Not enough repos. Yet.
 
 `THINK DEEPLY` &nbsp; // &nbsp; `BUILD FEARLESSLY` &nbsp; // &nbsp; `STAY CURIOUS`
 
-<br/>
+<br/><br/>
 
-<a href="https://suveer-raj-sinha.vercel.app">OPEN PORTFOLIO ↗</a>
+<a href="https://suveer-raj-sinha.vercel.app">
+  <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-↗-15191C?style=for-the-badge&labelColor=15191C&color=E99A3D" alt="Open Portfolio" />
+</a>
 
 </div>
+```
