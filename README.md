@@ -125,6 +125,10 @@ APIs, deployment, databases, and reliable systems.
 
 </div>
 
+## 📊 My GitHub Contributions
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <br/>
 
 <div align="center">
