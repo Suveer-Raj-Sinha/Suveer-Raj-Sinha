@@ -121,7 +121,7 @@ APIs, deployment, databases, and reliable systems.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suveer-Raj-Sinha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F10&title_color=E99A3D&icon_color=E99A3D&text_color=8997A3&rank_icon=github&cache_seconds=86400" width="70%" alt="GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suveer-Raj-Sinha&layout=compact&hide_border=true&bg_color=0D0F10&title_color=E99A3D&text_color=8997A3&langs_count=8" width="55%" alt="Most used programming languages" />
 
 <br/><br/>
 
